@@ -1,0 +1,8 @@
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Common.DB\bin\Debug\ResourceRobot.Common.DB.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Common.DB\bin\Debug\ResourceRobot.Common.DB.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Common.DB\obj\Debug\ResourceRobot.Common.DB.csprojAssemblyReference.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Common.DB\obj\Debug\ResourceRobot.Common.DB.csproj.CoreCompileInputs.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Common.DB\obj\Debug\ResourceRobot.Common.DB.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Common.DB\obj\Debug\ResourceRobot.Common.DB.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Common.DB\bin\Debug\MySql.Data.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Common.DB\obj\Debug\ResourceRobot.Common.DB.csproj.CopyComplete

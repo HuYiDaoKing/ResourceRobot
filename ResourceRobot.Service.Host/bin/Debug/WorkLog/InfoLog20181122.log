@@ -1,0 +1,246 @@
+[Info]:程序集:Plugins.AService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.AService.WcfService.dll ----2018-11-22 11:43:08
+
+[Info]:当前接口:Plugins.AService.WcfService.BusinessAService ----2018-11-22 11:43:08
+
+[Info]:begin开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 11:43:08
+
+[Info]:end开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 11:43:08
+
+[Info]:当前接口:Plugins.AService.WcfService.IBusinessAService ----2018-11-22 11:43:08
+
+[Info]:程序集:Plugins.BService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.BService.WcfService.dll ----2018-11-22 11:43:08
+
+[Info]:当前接口:Plugins.BService.WcfService.BusinessBService ----2018-11-22 11:43:08
+
+[Info]:begin开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 11:43:08
+
+[Info]:end开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 11:43:08
+
+[Info]:当前接口:Plugins.BService.WcfService.IBusinessBService ----2018-11-22 11:43:08
+
+[Info]:程序集:ResourceRobot.White.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\ResourceRobot.White.WcfService.dll ----2018-11-22 11:43:08
+
+[Info]:当前接口:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 11:43:08
+
+[Info]:begin开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 11:43:08
+
+[Info]:end开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 11:43:08
+
+[Info]:程序集:Plugins.AService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.AService.WcfService.dll ----2018-11-22 11:44:54
+
+[Info]:当前接口:Plugins.AService.WcfService.BusinessAService ----2018-11-22 11:44:55
+
+[Info]:begin开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 11:44:55
+
+[Info]:end开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 11:44:55
+
+[Info]:当前接口:Plugins.AService.WcfService.IBusinessAService ----2018-11-22 11:44:55
+
+[Info]:程序集:Plugins.BService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.BService.WcfService.dll ----2018-11-22 11:44:55
+
+[Info]:当前接口:Plugins.BService.WcfService.BusinessBService ----2018-11-22 11:44:55
+
+[Info]:begin开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 11:44:55
+
+[Info]:end开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 11:44:55
+
+[Info]:当前接口:Plugins.BService.WcfService.IBusinessBService ----2018-11-22 11:44:55
+
+[Info]:程序集:ResourceRobot.White.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\ResourceRobot.White.WcfService.dll ----2018-11-22 11:44:55
+
+[Info]:当前接口:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 11:44:55
+
+[Info]:begin开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 11:44:55
+
+[Info]:end开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 11:44:55
+
+[Info]:程序集:Plugins.AService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.AService.WcfService.dll ----2018-11-22 14:01:55
+
+[Info]:当前接口:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:01:55
+
+[Info]:begin开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:01:55
+
+[Info]:end开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:01:55
+
+[Info]:当前接口:Plugins.AService.WcfService.IBusinessAService ----2018-11-22 14:01:55
+
+[Info]:程序集:Plugins.BService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.BService.WcfService.dll ----2018-11-22 14:01:55
+
+[Info]:当前接口:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:01:55
+
+[Info]:begin开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:01:55
+
+[Info]:end开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:01:55
+
+[Info]:当前接口:Plugins.BService.WcfService.IBusinessBService ----2018-11-22 14:01:55
+
+[Info]:程序集:ResourceRobot.White.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\ResourceRobot.White.WcfService.dll ----2018-11-22 14:01:55
+
+[Info]:当前接口:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:01:55
+
+[Info]:begin开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:01:55
+
+[Info]:end开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:01:55
+
+[Info]:程序集:Plugins.AService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.AService.WcfService.dll ----2018-11-22 14:16:28
+
+[Info]:当前接口:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:16:29
+
+[Info]:begin开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:16:29
+
+[Info]:end开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:16:29
+
+[Info]:当前接口:Plugins.AService.WcfService.IBusinessAService ----2018-11-22 14:16:29
+
+[Info]:程序集:Plugins.BService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.BService.WcfService.dll ----2018-11-22 14:16:29
+
+[Info]:当前接口:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:16:29
+
+[Info]:begin开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:16:29
+
+[Info]:end开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:16:29
+
+[Info]:当前接口:Plugins.BService.WcfService.IBusinessBService ----2018-11-22 14:16:29
+
+[Info]:程序集:ResourceRobot.White.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\ResourceRobot.White.WcfService.dll ----2018-11-22 14:16:29
+
+[Info]:当前接口:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:16:29
+
+[Info]:begin开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:16:29
+
+[Info]:end开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:16:29
+
+[Info]:程序集:Plugins.AService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.AService.WcfService.dll ----2018-11-22 14:22:28
+
+[Info]:当前接口:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:22:28
+
+[Info]:begin开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:22:28
+
+[Info]:end开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:22:28
+
+[Info]:当前接口:Plugins.AService.WcfService.IBusinessAService ----2018-11-22 14:22:28
+
+[Info]:程序集:Plugins.BService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.BService.WcfService.dll ----2018-11-22 14:22:28
+
+[Info]:当前接口:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:22:28
+
+[Info]:begin开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:22:28
+
+[Info]:end开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:22:28
+
+[Info]:当前接口:Plugins.BService.WcfService.IBusinessBService ----2018-11-22 14:22:28
+
+[Info]:程序集:ResourceRobot.White.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\ResourceRobot.White.WcfService.dll ----2018-11-22 14:22:28
+
+[Info]:程序集:Plugins.AService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.AService.WcfService.dll ----2018-11-22 14:27:51
+
+[Info]:当前接口:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:27:51
+
+[Info]:begin开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:27:51
+
+[Info]:end开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:27:51
+
+[Info]:当前接口:Plugins.AService.WcfService.IBusinessAService ----2018-11-22 14:27:51
+
+[Info]:程序集:Plugins.BService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.BService.WcfService.dll ----2018-11-22 14:27:51
+
+[Info]:当前接口:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:27:51
+
+[Info]:begin开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:27:51
+
+[Info]:end开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:27:51
+
+[Info]:当前接口:Plugins.BService.WcfService.IBusinessBService ----2018-11-22 14:27:51
+
+[Info]:程序集:ResourceRobot.White.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\ResourceRobot.White.WcfService.dll ----2018-11-22 14:27:51
+
+[Info]:当前接口:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:27:51
+
+[Info]:begin开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:27:51
+
+[Info]:end开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:27:51
+
+[Info]:程序集:Plugins.AService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.AService.WcfService.dll ----2018-11-22 14:45:20
+
+[Info]:当前接口:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:45:20
+
+[Info]:begin开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:45:20
+
+[Info]:end开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:45:20
+
+[Info]:当前接口:Plugins.AService.WcfService.IBusinessAService ----2018-11-22 14:45:20
+
+[Info]:程序集:Plugins.BService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.BService.WcfService.dll ----2018-11-22 14:45:20
+
+[Info]:当前接口:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:45:20
+
+[Info]:begin开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:45:20
+
+[Info]:end开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:45:20
+
+[Info]:当前接口:Plugins.BService.WcfService.IBusinessBService ----2018-11-22 14:45:20
+
+[Info]:程序集:ResourceRobot.White.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\ResourceRobot.White.WcfService.dll ----2018-11-22 14:45:20
+
+[Info]:当前接口:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:45:20
+
+[Info]:begin开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:45:20
+
+[Info]:end开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:45:20
+
+[Info]:程序集:Plugins.AService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.AService.WcfService.dll ----2018-11-22 14:51:19
+
+[Info]:当前接口:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:51:19
+
+[Info]:begin开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:51:19
+
+[Info]:end开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:51:19
+
+[Info]:当前接口:Plugins.AService.WcfService.IBusinessAService ----2018-11-22 14:51:19
+
+[Info]:程序集:Plugins.BService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.BService.WcfService.dll ----2018-11-22 14:51:19
+
+[Info]:当前接口:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:51:19
+
+[Info]:begin开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:51:19
+
+[Info]:end开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:51:19
+
+[Info]:当前接口:Plugins.BService.WcfService.IBusinessBService ----2018-11-22 14:51:19
+
+[Info]:程序集:ResourceRobot.White.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\ResourceRobot.White.WcfService.dll ----2018-11-22 14:51:19
+
+[Info]:当前接口:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:51:19
+
+[Info]:begin开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:51:19
+
+[Info]:end开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:51:19
+
+[Info]:程序集:Plugins.AService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.AService.WcfService.dll ----2018-11-22 14:53:19
+
+[Info]:当前接口:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:53:19
+
+[Info]:begin开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:53:19
+
+[Info]:end开启服务:Plugins.AService.WcfService.BusinessAService ----2018-11-22 14:53:19
+
+[Info]:当前接口:Plugins.AService.WcfService.IBusinessAService ----2018-11-22 14:53:19
+
+[Info]:程序集:Plugins.BService.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\Plugins.BService.WcfService.dll ----2018-11-22 14:53:19
+
+[Info]:当前接口:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:53:19
+
+[Info]:begin开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:53:19
+
+[Info]:end开启服务:Plugins.BService.WcfService.BusinessBService ----2018-11-22 14:53:19
+
+[Info]:当前接口:Plugins.BService.WcfService.IBusinessBService ----2018-11-22 14:53:19
+
+[Info]:程序集:ResourceRobot.White.WcfService,文件路径:D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\Plugins\ResourceRobot.White.WcfService.dll ----2018-11-22 14:53:19
+
+[Info]:当前接口:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:53:19
+
+[Info]:begin开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:53:19
+
+[Info]:end开启服务:ResourceRobot.White.WcfService.WhiteListService ----2018-11-22 14:53:19
+

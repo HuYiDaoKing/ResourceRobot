@@ -1,0 +1,5 @@
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot..Channels\bin\Debug\ResourceRobot._.Channels.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot..Channels\bin\Debug\ResourceRobot._.Channels.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot..Channels\obj\Debug\ResourceRobot..Channels.csproj.CoreCompileInputs.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot..Channels\obj\Debug\ResourceRobot._.Channels.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot..Channels\obj\Debug\ResourceRobot._.Channels.pdb

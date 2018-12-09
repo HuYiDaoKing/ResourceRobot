@@ -1,0 +1,6 @@
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Models\bin\Debug\ResourceRobot.Models.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Models\bin\Debug\ResourceRobot.Models.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Models\obj\Debug\ResourceRobot.Models.csprojAssemblyReference.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Models\obj\Debug\ResourceRobot.Models.csproj.CoreCompileInputs.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Models\obj\Debug\ResourceRobot.Models.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Models\obj\Debug\ResourceRobot.Models.pdb

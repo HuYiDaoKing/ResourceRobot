@@ -1,0 +1,8 @@
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.exe.config
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.exe
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\obj\Debug\ResourceRobot.Service.Host.ProjectInstaller.resources
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\obj\Debug\ResourceRobot.Service.Host.csproj.GenerateResource.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\obj\Debug\ResourceRobot.Service.Host.csproj.CoreCompileInputs.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\obj\Debug\ResourceRobot.Service.Host.exe
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\obj\Debug\ResourceRobot.Service.Host.pdb

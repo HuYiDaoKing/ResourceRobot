@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Resource.Robot.Setting-->
+<Settings>
+  <add key="serviceaddr" value="net.tcp://172.16.0.194:3723/ResourceRobot.White.WcfService" />
+</Settings>

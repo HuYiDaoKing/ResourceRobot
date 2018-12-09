@@ -1,0 +1,10 @@
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Test\bin\Debug\ResourceRobot.Test.exe.config
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Test\bin\Debug\ResourceRobot.Test.exe
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Test\bin\Debug\ResourceRobot.Test.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Test\obj\Debug\ResourceRobot.Test.csproj.CoreCompileInputs.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Test\obj\Debug\ResourceRobot.Test.exe
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Test\obj\Debug\ResourceRobot.Test.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Test\bin\Debug\ResourceRobot.SDK.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Test\bin\Debug\ResourceRobot.SDK.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Test\obj\Debug\ResourceRobot.Test.csprojAssemblyReference.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Test\obj\Debug\ResourceRobot.Test.csproj.CopyComplete

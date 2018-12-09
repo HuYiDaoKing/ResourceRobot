@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ResourceRobot.Channels" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ResourceRobot.Channels" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:complexType name="WhiteListRequest">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:RobotRequest">
+        <xs:sequence />
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="WhiteListRequest" nillable="true" type="tns:WhiteListRequest" />
+  <xs:complexType name="RobotRequest">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="AppKey" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Func" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SdkPath" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SdkVersion" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RobotRequest" nillable="true" type="tns:RobotRequest" />
+  <xs:complexType name="RobotReponseOfArrayOfstringuHEDJ7Dj">
+    <xs:annotation>
+      <xs:appinfo>
+        <GenericType Name="RobotReponseOf{0}{#}" Namespace="http://schemas.datacontract.org/2004/07/ResourceRobot.Channels" xmlns="http://schemas.microsoft.com/2003/10/Serialization/">
+          <GenericParameter Name="ArrayOfstring" Namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+          </GenericParameter>
+        </GenericType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="Data" nillable="true" type="q1:ArrayOfstring" />
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="StatusCode" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RobotReponseOfArrayOfstringuHEDJ7Dj" nillable="true" type="tns:RobotReponseOfArrayOfstringuHEDJ7Dj" />
+  <xs:complexType name="RegistWhiteListRequest">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:RobotRequest">
+        <xs:sequence />
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="RegistWhiteListRequest" nillable="true" type="tns:RegistWhiteListRequest" />
+  <xs:complexType name="RobotReponseOfboolean">
+    <xs:annotation>
+      <xs:appinfo>
+        <GenericType Name="RobotReponseOf{0}{#}" Namespace="http://schemas.datacontract.org/2004/07/ResourceRobot.Channels" xmlns="http://schemas.microsoft.com/2003/10/Serialization/">
+          <GenericParameter Name="boolean" Namespace="http://www.w3.org/2001/XMLSchema">
+          </GenericParameter>
+        </GenericType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Data" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="StatusCode" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RobotReponseOfboolean" nillable="true" type="tns:RobotReponseOfboolean" />
+  <xs:complexType name="ReportExceptionRequest">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:RobotRequest">
+        <xs:sequence />
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ReportExceptionRequest" nillable="true" type="tns:ReportExceptionRequest" />
+</xs:schema>

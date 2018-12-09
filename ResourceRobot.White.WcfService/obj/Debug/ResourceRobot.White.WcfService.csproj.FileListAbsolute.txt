@@ -1,0 +1,10 @@
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.White.WcfService\bin\ResourceRobot.White.WcfService.dll.config
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.White.WcfService\bin\ResourceRobot.White.WcfService.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.White.WcfService\bin\ResourceRobot.White.WcfService.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.White.WcfService\bin\ResourceRobot._.Channels.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.White.WcfService\bin\ResourceRobot._.Channels.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.White.WcfService\obj\Debug\ResourceRobot.White.WcfService.csprojAssemblyReference.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.White.WcfService\obj\Debug\ResourceRobot.White.WcfService.csproj.CoreCompileInputs.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.White.WcfService\obj\Debug\ResourceRobot.White.WcfService.csproj.CopyComplete
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.White.WcfService\obj\Debug\ResourceRobot.White.WcfService.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.White.WcfService\obj\Debug\ResourceRobot.White.WcfService.pdb

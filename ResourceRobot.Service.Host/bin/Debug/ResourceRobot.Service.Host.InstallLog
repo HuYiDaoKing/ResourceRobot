@@ -1,0 +1,26 @@
+﻿正在安装程序集“D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.exe
+   logfile = D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.InstallLog
+正在安装服务 Service1...
+已成功安装服务 Service1。
+正在日志 Application 中创建 EventLog 源 Service1...
+正在提交程序集“D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.exe
+   logfile = D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.InstallLog
+正在安装程序集“D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.exe
+   logfile = D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.InstallLog
+正在安装服务 ResourceService...
+已成功安装服务 ResourceService。
+正在日志 Application 中创建 EventLog 源 ResourceService...
+正在提交程序集“D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.exe
+   logfile = D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.Service.Host\bin\Debug\ResourceRobot.Service.Host.InstallLog

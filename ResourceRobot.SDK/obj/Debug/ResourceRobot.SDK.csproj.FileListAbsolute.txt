@@ -1,0 +1,9 @@
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.SDK\bin\Debug\ResourceRobot.SDK.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.SDK\bin\Debug\ResourceRobot.SDK.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.SDK\bin\Debug\ResourceRobot._.Channels.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.SDK\bin\Debug\ResourceRobot._.Channels.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.SDK\obj\Debug\ResourceRobot.SDK.csprojAssemblyReference.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.SDK\obj\Debug\ResourceRobot.SDK.csproj.CoreCompileInputs.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.SDK\obj\Debug\ResourceRobot.SDK.csproj.CopyComplete
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.SDK\obj\Debug\ResourceRobot.SDK.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.SDK\obj\Debug\ResourceRobot.SDK.pdb

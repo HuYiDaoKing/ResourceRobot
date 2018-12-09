@@ -1,0 +1,6 @@
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.BLL\bin\Debug\ResourceRobot.BLL.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.BLL\bin\Debug\ResourceRobot.BLL.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.BLL\obj\Debug\ResourceRobot.BLL.csprojAssemblyReference.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.BLL\obj\Debug\ResourceRobot.BLL.csproj.CoreCompileInputs.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.BLL\obj\Debug\ResourceRobot.BLL.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.BLL\obj\Debug\ResourceRobot.BLL.pdb

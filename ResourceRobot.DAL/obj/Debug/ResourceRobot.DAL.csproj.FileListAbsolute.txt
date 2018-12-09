@@ -1,0 +1,10 @@
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.DAL\bin\Debug\ResourceRobot.DAL.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.DAL\bin\Debug\ResourceRobot.DAL.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.DAL\obj\Debug\ResourceRobot.DAL.csprojAssemblyReference.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.DAL\obj\Debug\ResourceRobot.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.DAL\obj\Debug\ResourceRobot.DAL.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.DAL\obj\Debug\ResourceRobot.DAL.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.DAL\bin\Debug\ResourceRobot.Common.DB.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.DAL\bin\Debug\MySql.Data.dll
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.DAL\bin\Debug\ResourceRobot.Common.DB.pdb
+D:\Projects\MaintenResponsitory\ResourceRobot\ResourceRobot\ResourceRobot.DAL\obj\Debug\ResourceRobot.DAL.csproj.CopyComplete
